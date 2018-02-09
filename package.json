@@ -1,0 +1,22 @@
+{
+  "name": "kupopupform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kupopupform",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node "
+  },
+  "author": "Sergiy Kurinny <sergiy.ivanov.2014@gmail.com>",
+  "contributors": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kurinny/kupopupform.git"
+  },
+  "bin": {
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
